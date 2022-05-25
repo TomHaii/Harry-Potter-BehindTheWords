@@ -1,9 +1,9 @@
 <p dir="rtl">
-<strong><span style="text-decoration:underline;">הארי פוטר - מאחורי המילים</span></strong></p>
+<h2 dir="rtl"><strong><span style="text-decoration:underline;">הארי פוטר - מאחורי המילים</span></strong></p></h2>
 
 
 <p dir="rtl">
-<strong><span style="text-decoration:underline;">מטרת הפרויקט:</span></strong></p>
+<h3 dir="rtl"><strong><span style="text-decoration:underline;">מטרת הפרויקט:</span></strong></p></h3>
 
 
 <p dir="rtl">
@@ -11,7 +11,7 @@
 
 
 <p dir="rtl">
-<strong><span style="text-decoration:underline;">הקשר למדעי הרוח הדיגיטליים:</span></strong></p>
+<h3 dir="rtl"><strong><span style="text-decoration:underline;">הקשר למדעי הרוח הדיגיטליים:</span></strong></p></h3>
 
 
 <p dir="rtl">
@@ -19,7 +19,7 @@
 
 
 <p dir="rtl">
-<strong><span style="text-decoration:underline;">שאלות מחקר:</span></strong></p>
+<h3 dir="rtl"><strong><span style="text-decoration:underline;">שאלות מחקר:</span></strong></p></h3>
 
 
 
@@ -30,7 +30,7 @@
 * כמה פעמים דמות מרכזית מוזכרת לאחר מותה בכל אחד מהספרים.
 
 <p dir="rtl">
-<strong><span style="text-decoration:underline;">מאגר נתונים:</span></strong></p>
+<h3 dir="rtl"><strong><span style="text-decoration:underline;">מאגר נתונים:</span></strong></p></h3>
 
 
 
@@ -40,7 +40,7 @@
 * כל אחד משבעת הספרים הינו זמין באתר הבא: [https://www.onlinereadfreebooks.com/en/author/j-k-rowling](https://www.onlinereadfreebooks.com/en/author/j-k-rowling). בפרויקט זה, אנו נטען כל אחד מהטקסטים וננתח אותו עפ"י קריטריונים שמטרתם לעזור לענות על כל אחת שאלות המחקר המוצגות לעיל, כגון, הגדרת דמויות מפתח ואיתורן בטקסט, זיהוי קסמים סכימתם ועוד.
 
 <p dir="rtl">
-<strong><span style="text-decoration:underline;">תכנית:</span></strong></p>
+<h3 dir="rtl"><strong><span style="text-decoration:underline;">תכנית:</span></strong></p></h3>
 
 
 
@@ -50,7 +50,7 @@
 * הצגת המידע בצורה ויזואלית כגון גרפים, ענן מילים וכו׳ דרך אתר אינטרנט.
 
 <p dir="rtl">
-<strong><span style="text-decoration:underline;">כלים - שפות פיתוח:</span></strong></p>
+<h3 dir="rtl"><strong><span style="text-decoration:underline;">כלים - שפות פיתוח:</span></strong></p></h3>
 
 
 
@@ -61,7 +61,7 @@
 * CSS
 
 <p dir="rtl">
-<strong><span style="text-decoration:underline;">יעד:</span></strong></p>
+<h3 dir="rtl"><strong><span style="text-decoration:underline;">יעד:</span></strong></p></h3>
 
 
 <p dir="rtl">
