@@ -18,7 +18,7 @@
 <p dir="rtl">
 <h3 dir="rtl"><strong><span style="text-decoration:underline;">כלים - שפות פיתוח:</span></strong></p></h3>
 
-*  Python 
+* Python 
 * Javascript
 * HTML
 * CSS
@@ -29,14 +29,14 @@
 <h3 dir="rtl"><strong><span style="text-decoration:underline;">תוכנית עבודה:</span></strong></p></h3>
 
 <p dir="rtl">
-<h4 dir="rtl"><strong><span style="text-decoration:underline;">backend:</span></strong></p></h4>
+<h4 dir="rtl">backend:</h4>
 
 
   
 יצירת המחלקות הבאות: </p>
-Book - <p/>
+<strong> Book - <p/> </strong>
 מקבלת קובץ txt המהווה את הספר ה- i, ושומרת את כל המילים המורכבות מאותיות באנגלית.</p>
-Character - <p/>
+<strong> Character - <p/> </strong>
 מקבלת שם של דמות ויוצרת אובייקט שמייצג את הדמות ומכיל את השדות הבאים: </p>
 * שם
 * כינויים (alias)
