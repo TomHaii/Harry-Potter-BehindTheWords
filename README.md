@@ -29,7 +29,9 @@
 <h3 dir="rtl"><strong><span style="text-decoration:underline;">תוכנית עבודה:</span></strong></p></h3>
 
 <p dir="rtl">
-<h4 dir="rtl">backend:</h4>
+  
+<h4 dir="rtl"><strong><span style="text-decoration:underline;">frontend:</span></strong></p></h4>
+
 
 
   
@@ -55,10 +57,7 @@
 
 את התוצאות אנחנו שומרים בקובץ Json בשם results אשר כל אובייקט המפתח הוא דמות source והערך הוא רשימה של כל שאר הדמויות עם הממוצע המשוקלל
 .</p>
-
-<p dir="rtl">
-
-<p dir="rtl">
+  
 <h4 dir="rtl"><strong><span style="text-decoration:underline;">frontend:</span></strong></p></h4>
 
 
