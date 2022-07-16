@@ -1,22 +1,22 @@
 <p dir="rtl">
-<h2 dir="rtl"><strong><span style="text-decoration:underline;">הארי פוטר - רשת חברתית</span></strong></p></h2>
+<h1 dir="rtl"><strong><span style="text-decoration:underline;">הארי פוטר - רשת חברתית</span></strong></p></h1>
 
 
 <p dir="rtl">
-<h3 dir="rtl"><strong><span style="text-decoration:underline;">מטרת הפרויקט:</span></strong></p></h3>
+<h2 dir="rtl"><strong><span style="text-decoration:underline;">מטרת הפרויקט:</span></strong></p></h2>
 
 
 <p dir="rtl">רשת חברתית של הארי פוטר אשר מגדירה את טיב מערכת היחסים בין כל הדמויות. הניתוח נעשה עבור כל ספר, והתוצאה הסופית הינה ממוצע משוקלל של הנתונים.</p>
 
 <p dir="rtl">
-<h3 dir="rtl"><strong><span style="text-decoration:underline;">הקשר למדעי הרוח הדיגיטליים:</span></strong></p></h3>
+<h2 dir="rtl"><strong><span style="text-decoration:underline;">הקשר למדעי הרוח הדיגיטליים:</span></strong></p></h2>
 
 
 <p dir="rtl">
 בפרויקט זה אנו משתמשים בידע התכנותי שצברנו על מנת לתכנן אלגוריתמים שיבצעו ניתוח ועיבוד מידע בפלטפורמות דיגיטליות תוך כדי שילוב העניין והידע שלנו בסדרת הספרים הנוכחית.</p>
 
 <p dir="rtl">
-<h3 dir="rtl"><strong><span style="text-decoration:underline;">כלים - שפות פיתוח:</span></strong></p></h3>
+<h2 dir="rtl"><strong><span style="text-decoration:underline;">כלים - שפות פיתוח:</span></strong></p></h2>
 
 * Python 
 * Javascript
@@ -26,11 +26,11 @@
 * SigmaJS
 
 <p dir="rtl">
-<h3 dir="rtl"><strong><span style="text-decoration:underline;">תוכנית עבודה:</span></strong></p></h3>
+<h2 dir="rtl"><strong><span style="text-decoration:underline;">תוכנית עבודה:</span></strong></p></h2>
 
 <p dir="rtl">
   
-<h4><strong><span style="text-decoration:underline;">backend:</span></strong></p></h4>
+<h3><strong><span style="text-decoration:underline;">backend:</span></strong></p></h3>
 
 
 
@@ -58,11 +58,11 @@
 את התוצאות אנחנו שומרים בקובץ Json בשם results אשר כל אובייקט המפתח הוא דמות source והערך הוא רשימה של כל שאר הדמויות עם הממוצע המשוקלל
 .</p>
   
-<h4><strong><span style="text-decoration:underline;">frontend:</span></strong></p></h4>
+<h3><strong><span style="text-decoration:underline;">frontend:</span></strong></p></h3>
 
 
 הצגת קובץ ה- results בצורה גרפית: </p>
 
 שימוש בסרגל כלים מצד שמאל אשר מכיל את כל אחת מהדמויות בספר- כאשר נלחץ על דמות מסוימת נקבל גרף שבמרכזו קודקוד בצבע אדום המהווה את הדמות שעליה לחצנו, וקשת ב
 בגרף היא מהקודקוד המרכזי לכל קודקוד כחול המייצג דמות אשר הממוצע המשוקלל שלה עם הדמות הנוכחית גדול מאפס (קיימת מערכת יחסים כפי שהגדרנו בין שתי הדמויות). הגודל של הקודקוד מעיד על מידת הקשר בין שתי הדמויות.
-.</p>
+</p>
