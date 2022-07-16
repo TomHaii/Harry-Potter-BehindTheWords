@@ -31,7 +31,7 @@
 <p dir="rtl">
 <h4 dir="rtl"><strong><span style="text-decoration:underline;">backend:</span></strong></p></h4>
 
-<p dir="rtl">
+
   
 יצירת המחלקות הבאות: </p>
 Book - <p/>
@@ -43,11 +43,11 @@ Character - <p/>
 * מילון אשר המפתח שלו הוא מספר הספר והערך שלו הוא רשימה שכל איבר בה מייצג מופע של הדמות והוא המילה ה- i בספר
 * מילון אשר המפתח שלו הוא דמות (לא כולל הדמות הנוכחית) והערך הוא מערך בגודל 7 אשר כל תא בערך מייצג את הקשר שאנחנו מנסים לכמת בפרויקט הזה בין הדמות הנוכחית לשאר הדמויות עבור כל ספר.</p>
 
-Relationship - <p/>
+<strong> Relationship - <p/> </strong>
 
 מקבלת דמות (viewpoint), בעלת שדה 'מילון' אשר המפתח הוא כל אחת מהדמויות השונות מהדמות viewpoint והערך הוא הממוצע המשוקלל של היחסים עם הדמות הנוכחית והדמות viewpoint המעודכן ע"י המחלקה CharacterRelationships.
 <p/>
-CharacterRelationships - <p/>
+<strong> CharacterRelationships - <p/></strong>
 מכילה שתי פונקציות סטטיות: </p>
 
 * פונקציה משנית אשר מחשבת את הממוצע המשוקלל.
@@ -58,9 +58,9 @@ CharacterRelationships - <p/>
 
 <p dir="rtl">
 
+<p dir="rtl">
 <h4 dir="rtl"><strong><span style="text-decoration:underline;">frontend:</span></strong></p></h4>
 
-<p dir="rtl">
 
 הצגת קובץ ה- results בצורה גרפית: </p>
 שימוש בסרגל כלים מצד שמאל אשר מכיל את כל אחת מהדמויות בספר- כאשר נלחץ על דמות מסוימת נקבל גרף שבמרכזו קודקוד בצבע אדום המהווה את הדמות שעליה לחצנו, וקשת ב
