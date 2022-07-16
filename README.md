@@ -58,7 +58,7 @@
 את התוצאות אנחנו שומרים בקובץ Json בשם results אשר כל אובייקט המפתח הוא דמות source והערך הוא רשימה של כל שאר הדמויות עם הממוצע המשוקלל
 .</p>
   
-<h4>strong><span style="text-decoration:underline;">frontend:</span></strong></p></h4>
+<h4><strong><span style="text-decoration:underline;">frontend:</span></strong></p></h4>
 
 
 הצגת קובץ ה- results בצורה גרפית: </p>
