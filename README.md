@@ -27,15 +27,16 @@
 * SigmaJS
 
 <p dir="rtl">
-<h3 dir="rtl"><strong><span style="text-decoration:underline;">,תוכנית עבודה:</span></strong></p></h3>
+<h3 dir="rtl"><strong><span style="text-decoration:underline;">תוכנית עבודה:</span></strong></p></h3>
 
 <p dir="rtl">
-<h4 dir="rtl"><strong><span style="text-decoration:underline;">,backend:</span></strong></p></h4>
+<h4 dir="rtl"><strong><span style="text-decoration:underline;">backend:</span></strong></p></h4>
 
 <p dir="rtl">
-יצירת המחלקות הבאות:
-Book-
-מקבלת קובץ txt המהווה את הספר ה- i, ושומרת את כל המילים המורכבות מהאותיות A-Z, a-z.
+  
+יצירת המחלקות הבאות: </p>
+Book- <p/>
+מקבלת קובץ txt המהווה את הספר ה- i, ושומרת את כל המילים המורכבות מהאותיות A-Z, a-z. 
 Character-
 מקבלת שם של דמות ויוצרת אובייקט שמייצג את הדמות ומכיל את השדות הבאים:
 שם, כינויים (alias), מילון אשר המפתח שלו הוא מספר הספר והערך שלו הוא רשימה שכל איבר בה מייצג מופע של הדמות והוא המילה ה- i בספר, מילון אשר המפתח שלו הוא דמות (לא כולל הדמות הנוכחית) והערך הוא מערך בגודל 7 אשר כל תא בערך מייצג את הקשר שאנחנו מנסים לכמת בפרויקט הזה בין הדמות הנוכחית לשאר הדמויות עבור כל ספר.
